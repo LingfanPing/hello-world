@@ -1,4 +1,4 @@
-# hello-world
+# 2 Matlab的安装
 正版MTALAB2018a的下载安装方法以及注意事项
-Matlab是很实用的工具，每位同学在大一下学期的工数线代上机时都要用，当然数模中一般更会用到。至于安装就要感谢大连理工大学，大工购买了它的2018a正版使用权，所以我们就不用去网上找盗版了。大连理工大学超算中心的正版软件模块有MTALAB2018a的详细下载安装方法，建议把所有细节（MATLAB校园单机版安装指南、Windows版iso格式Matlab安装文件使用方法说明、Matlab许可证关联方法、Mathworks账户创建方法、大工云盘MATLAB校园单机版安装文件下载方法、Matlab功能说明）全看完再去安装。
+Matlab是很实用的工具，每位同学在大一下学期的工数线代上机时都要用，当然数模中更会用到。至于安装，大工购买了它的2018a正版使用权，所以我们就不用去网上找盗版了。大连理工大学超算中心的正版软件模块有MTALAB2018a的详细下载安装方法，建议把所有细节（MATLAB校园单机版安装指南、Windows版iso格式Matlab安装文件使用方法说明、Matlab许可证关联方法、Mathworks账户创建方法、大工云盘MATLAB校园单机版安装文件下载方法、Matlab功能说明）全看完再去安装。
 链接如下（要使用校园网才能打开链接）：http://hpc.dlut.edu.cn/jingyanjiaoliu/list.jsp?urltype=tree.TreeTempUrl&wbtreeid=1059
